@@ -1,0 +1,2 @@
+This is the only sample file
+Don't assume it as main file
